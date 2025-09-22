@@ -88,6 +88,16 @@ An automated Python pipeline for analyzing spatial gene expression in cancer tis
         ```
 
 
+## 🔬 Dataset
+
+The sample data required to run this pipeline is publicly available from the NCBI Gene Expression Omnibus (GEO) under accession number **GSE144239**. One can use their own data to run the pipeline.
+
+You can download the dataset here: [(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)] and provide the accession number.
+
+**Preparation:**
+After downloading, please use the provided helper scripts (`convert_10x_visium.py`, `convert_data_format.py`) as needed to format the data into the structure expected by the pipeline (described under "Input Data Format").
+
+
 ## 📊 Input Data Format
 
 For each sample, the pipeline expects the following files within its folder in `data/`:
