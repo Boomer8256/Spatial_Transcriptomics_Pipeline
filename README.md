@@ -25,6 +25,8 @@ An automated Python pipeline for analyzing spatial gene expression in cancer tis
 │       └── sample1_tissue_image.jpg
 ├── results/
 ├── .gitignore
+├── convert_10x_visium.py
+├── convert_data_format.py
 ├── cancer_markers_comprehensive.json
 ├── config.json
 ├── PanglaoDB_markers_27_Mar_2020.tsv
@@ -69,6 +71,7 @@ An automated Python pipeline for analyzing spatial gene expression in cancer tis
 1.  **Prepare Your Data:**
     * Place your sample folders inside the `data/` directory.
     * Each sample folder must contain three files: the expression data (`_stdata.csv`), the coordinate mapping file (`_coordinates.csv`), and the tissue image (`_tissue_image.jpg`).
+    * convert_10x_visium.py and convert_data_format.py were used to prepare the data in the required data formats before running the pipeline.
 
 2.  **Configure the Pipeline:**
     * Copy the configuration template: `cp config.json`.
