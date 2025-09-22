@@ -47,8 +47,8 @@ An automated Python pipeline for analyzing spatial gene expression in cancer tis
 ### Steps
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepositoryName.git](https://github.com/YourUsername/YourRepositoryName.git)
-    cd YourRepositoryName
+    git clone (https://github.com/kala02/Spatial_Transcriptomics_Pipeline.git)
+    cd Spatial_Transcriptomics_Pipeline
     ```
 
 2.  **Create a virtual environment (recommended):**
